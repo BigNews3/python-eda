@@ -3,3 +3,6 @@ venv
 /.idea/modules.xml
 /.idea/misc.xml
 /.idea/vcs.xml
+/.ipynb_checkpoints/ObjetPython-checkpoint.ipynb
+/.idea/.gitignore
+/.idea/jupyler.iml
